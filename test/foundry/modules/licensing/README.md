@@ -69,12 +69,12 @@ Alice wants to burn L1,L2 and L3 to link as parents for IP4
 | Commercial use          | Equal or revert                                     | One would infringe the other                                                                                      |
 | Commercial attribution  | Indifferent                                         | Holder of all licenses must attribute the ones demanding it. Disputable                                           |
 | Commercializers         | Indifferent                                         | OK if verification checks for all licenses succeed                                                                |
-| Commercial Rev Share    | Indifferent                                         | Licensing proccess must set all. Verifications must pass                                                          |
+| Commercial Rev Share    | Indifferent                                         | Licensing process must set all. Verifications must pass                                                          |
 | Derivatives             | Equal or revert                                     | One would infringe the other                                                                                      |
 | Derivatives Attribution | Indifferent                                         | Holder of all licenses must attribute the ones demanding it. Disputable                                           |
 | Derivatives Approval    | Indifferent                                         | OK if verification checks for all licenses succeed                                                                |
 | Derivatives Reciprocal  | Equal or revert. If both true, policy must be equal | One would infringe the other                                                                                      |
-| Derivatives Rev Share   | Indifferent                                         | Licensing proccess must set all. Verifications must pass                                                          |
+| Derivatives Rev Share   | Indifferent                                         | Licensing process must set all. Verifications must pass                                                          |
 | Territories             | All equal, or some empty and the rest equal         | All permissive is OK. Some permissive except some with same restrictions OK. Different restrictions is a conflict |
 | Distribution Channels   | Same as previous                                    | Same as previous                                                                                                  |
 | Content Restrictions    | Same as previous                                    | Same as previous                                                                                                  |
@@ -114,7 +114,7 @@ So we have:
 
 # Plagiarism
 Bob owns IP1 
-Bob sets P1 in IP1 (he can, since he clains IP1 is original)
+Bob sets P1 in IP1 (he can, since he claims IP1 is original)
 Alice owns IP2
 Alice mints L1 from IP1-P1
 Alice links IP2 to IP1 with L1
@@ -127,14 +127,14 @@ Alice cannot set policies in IP2
 Alice cannot mint licenses from IP2
 // TODO: royalties?
 
-# Unnatributed derivative
+# Unattributed derivative
 Bob owns IP1 
-Bob sets P1 in IP1 (he can, since he clains IP1 is original)
+Bob sets P1 in IP1 (he can, since he claims IP1 is original)
 Alice owns IP2
 Alice mints L1 from IP1-P1
 Alice links IP2 to IP1 with L1
 Don finds out IP1 is a clear derivative of his IP0
-Don raises dispute against IP1 for unatributed derivative
+Don raises dispute against IP1 for unattributed derivative
 Dispute passes, IP1 is labeled as plagiarism
 ??? Either:
 Bob cannot set policies in IP1
